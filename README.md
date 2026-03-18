@@ -1,7 +1,9 @@
 <p>The child spent most of his time on a hilltop.</p>
 <hr></hr>
-<img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/39406fcf-2439-4cb9-89c7-53f943d866ad" />
-
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img width="20%" height="20%" alt="image" src="https://github.com/user-attachments/assets/39406fcf-2439-4cb9-89c7-53f943d866ad" />
+  
+  <pre style="margin: 0; font-family: monospace;">
       𒆙 𒅒 𒈔 𒅒 𒇫 𒄆⋆. ⌬ ˚ ⚛ 𒉭 ⋆ e = ∑∞ⁿ⁼⁰ ¹ₙ ⋆ 𒉭 ⚛ ˚ ⌬ .⋆𒄆 𒇫 𒅒 𒈔 𒅒 𒆙
       user: inthegreensea
       who am I: 100% human
@@ -15,3 +17,5 @@
       technology skills: Computer Science, Cybersecurity, Information Technology
       certificates: TestOut Security Pro
       𒆙 𒅒 𒈔 𒅒 𒇫 𒄆⋆. ⌬ ˚ ⚛ 𒉭 ⋆ e = ∑∞ⁿ⁼⁰ ¹ₙ ⋆ 𒉭 ⚛ ˚ ⌬ .⋆𒄆 𒇫 𒅒 𒈔 𒅒 𒆙
+  </pre>
+</div>
